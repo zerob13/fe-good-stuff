@@ -20,7 +20,11 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [generator-happy-mobile-webapp](https://github.com/zerob13/generator-happy-mobile-webapp) Yeoman generator that scaffolds out a front-end mobile web app    
 - [placehold.it](http://placehold.it/) A quick and simple image placeholder service
 
-![](http://placehold.it/350x200)
+```
+<img src="http://placehold.it/350x150">
+```
+
+![](http://placehold.it/350x150)
 
 ## Documents 
 - [frontend-guidelines](https://github.com/bendc/frontend-guidelines) Some HTML, CSS and JS best practices.
