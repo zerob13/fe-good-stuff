@@ -17,7 +17,8 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
-- [generator-happy-mobile-webapp](https://github.com/zerob13/generator-happy-mobile-webapp) Yeoman generator that scaffolds out a front-end mobile web app 
+- [generator-happy-mobile-webapp](https://github.com/zerob13/generator-happy-mobile-webapp) Yeoman generator that scaffolds out a front-end mobile web app    
+- [placehold.it](http://placehold.it/) A quick and simple image placeholder service
 
 ## Documents 
 - [frontend-guidelines](https://github.com/bendc/frontend-guidelines) Some HTML, CSS and JS best practices.
