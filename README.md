@@ -1,4 +1,4 @@
-# fe-goog-stuff
+# fe-good-stuff
 A continuously expanded list of stuffs I used/want to use on frontend. 
 
 ## UI
