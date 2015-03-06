@@ -18,7 +18,9 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
 - [generator-happy-mobile-webapp](https://github.com/zerob13/generator-happy-mobile-webapp) Yeoman generator that scaffolds out a front-end mobile web app    
-- [placehold.it](http://placehold.it/) A quick and simple image placeholder service
+- [Can I Use](http://caniuse.com/) "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+- [Autoprefixer](https://github.com/postcss/autoprefixer)  parse CSS and add vendor prefixes to CSS rules using values from Can I Use
+- [placehold.it](http://placehold.it/) A quick and simple image placeholder servicek
 
 ```
 <img src="http://placehold.it/350x150">
