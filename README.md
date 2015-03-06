@@ -20,6 +20,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [generator-happy-mobile-webapp](https://github.com/zerob13/generator-happy-mobile-webapp) Yeoman generator that scaffolds out a front-end mobile web app    
 - [Can I Use](http://caniuse.com/) "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 - [Autoprefixer](https://github.com/postcss/autoprefixer)  parse CSS and add vendor prefixes to CSS rules using values from Can I Use
+- [Rem calculator](https://offroadcode.com/prototypes/rem-calculator/) Px to Rem 
 - [placehold.it](http://placehold.it/) A quick and simple image placeholder servicek
 
 ```
