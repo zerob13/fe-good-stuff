@@ -8,6 +8,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [nprogress](https://github.com/rstacruz/nprogress)  progress bar
 - [timesheet.js](https://github.com/sbstjn/timesheet.js) Simple JavaScript library to create HTML time sheets. 
 - [plyr](https://github.com/Selz/plyr) A simple HTML5 media player
+- [favico.js](http://lab.ejci.net/favico.js/) Make a use of your favicon with badges, images or videos
 
 ## Javascript Libs
 - [Zepto.js](http://zeptojs.com) a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
