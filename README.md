@@ -12,7 +12,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 ## Javascript Libs
 - [Zepto.js](http://zeptojs.com) a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
 - [mustache.js](https://github.com/janl/mustache.js/)  an implementation of the mustache template system in JavaScript.
-- [react.js](https://github.com/facebook/react)
+- [react.js](https://github.com/facebook/react) Facebook react
 - [riot.js](https://github.com/muut/riotjs) A React- like, 3.5KB UI lib
 
 ## Tools
