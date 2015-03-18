@@ -10,6 +10,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [plyr](https://github.com/Selz/plyr) A simple HTML5 media player
 - [favico.js](http://lab.ejci.net/favico.js/) Make a use of your favicon with badges, images or videos
 - [purecss](http://purecss.io/) A set of small, responsive CSS modules 
+- [ionic](https://github.com/driftyco/ionic) Advanced HTML5 mobile development framework and SDK.Best friends with AngularJS.
 
 ## Javascript Libs
 - [Zepto.js](http://zeptojs.com) a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
