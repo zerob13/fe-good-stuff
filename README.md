@@ -37,3 +37,4 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 ## Documents 
 - [frontend-guidelines](https://github.com/bendc/frontend-guidelines) Some HTML, CSS and JS best practices.
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) display:flex
+- [Leveling Up with Flexbox](https://www.slideshare.net/slideshow/embed_code/32757509)
