@@ -22,6 +22,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [riot.js](https://github.com/muut/riotjs) A React- like, 3.5KB UI lib
 - [tap.js](https://github.com/pukhalski/tap) 1Kb library for easy unified handling of user interactions such as mouse, touch and pointer events.
 - [echo](https://github.com/toddmotto/echo) Lazy-loading images 
+- [is.js](https://github.com/arasatasaygin/is.js) This is a general-purpose check library.
 
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
