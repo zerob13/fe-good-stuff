@@ -3,7 +3,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 
 ## UI
 - [Ratchet](http://goratchet.com) Mobile UI Kit
-- [Bootstrap](http://getbootstrap.com/) 
+- [Bootstrap](http://getbootstrap.com/) Twitter's Bootstrap
 - [Swiper](https://github.com/nolimits4web/Swiper) Slider
 - [nprogress](https://github.com/rstacruz/nprogress)  progress bar
 - [timesheet.js](https://github.com/sbstjn/timesheet.js) Simple JavaScript library to create HTML time sheets. 
