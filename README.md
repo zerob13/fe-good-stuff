@@ -15,6 +15,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [AniCollection](https://github.com/anicollection/anicollection) The easiest way to find, use and share animations. Priceless!
 - [loaders.css](https://github.com/ConnorAtherton/loaders.css) Delightful, performance-focused pure css loading animations.
 - [dragscroll](https://github.com/asvd/dragscroll)tiny library for drag-n-drop scrolling style
+- [Space.js](https://github.com/gopatrik/space.js)  A HTML-driven JavaScript-library for narrative 3D-scrolling. 
 
 ## Javascript Libs
 - [Zepto.js](http://zeptojs.com) a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
