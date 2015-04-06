@@ -55,3 +55,4 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [Leveling Up with Flexbox](https://www.slideshare.net/slideshow/embed_code/32757509)  sildes about flexbox
 - [Airbnb JavaScript](https://github.com/airbnb/javascript) Airbnb JavaScript Style Guide
 - [React-demos](https://github.com/ruanyf/react-demos) a collection of simple demos of React.js
+- [Loading CSS without blocking render](http://keithclark.co.uk/articles/loading-css-without-blocking-render/)
