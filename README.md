@@ -31,6 +31,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [echo](https://github.com/toddmotto/echo) Lazy-loading images 
 - [is.js](https://github.com/arasatasaygin/is.js) This is a general-purpose check library.
 - [babel](https://github.com/babel/babel) Babel is a compiler for writing next generation JavaScript. 6to5
+- [xto6](https://github.com/mohebifar/xto6) Turn your ES5 code into readable ES6
 
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
