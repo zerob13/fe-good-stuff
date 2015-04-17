@@ -29,10 +29,13 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [riot.js](https://github.com/muut/riotjs) A React- like, 3.5KB UI lib
 - [tap.js](https://github.com/pukhalski/tap) 1Kb library for easy unified handling of user interactions such as mouse, touch and pointer events.
 - [echo](https://github.com/toddmotto/echo) Lazy-loading images 
+- [layzr.js](https://github.com/callmecavs/layzr.js) A small, fast, modern, and dependency-free library for lazy loading images. 
 - [is.js](https://github.com/arasatasaygin/is.js) This is a general-purpose check library.
 - [babel](https://github.com/babel/babel) Babel is a compiler for writing next generation JavaScript. 6to5
 - [xto6](https://github.com/mohebifar/xto6) Turn your ES5 code into readable ES6
 - [virtual-dom](https://github.com/Matt-Esch/virtual-dom) A Virtual DOM and diffing algorithm
+- [t3js](https://github.com/box/t3js) A minimal component-based JavaScript framework
+- [dragula](https://github.com/bevacqua/dragula) Drag and drop so simple it hurts
 
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
