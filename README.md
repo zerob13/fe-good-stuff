@@ -65,3 +65,4 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [Loading CSS without blocking render](http://keithclark.co.uk/articles/loading-css-without-blocking-render/)
 - [BEM 101](https://css-tricks.com/bem-101/) The Block, Element, Modifier methodology
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) A book series on JavaScript.
+- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. 
