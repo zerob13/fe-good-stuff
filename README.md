@@ -38,6 +38,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [t3js](https://github.com/box/t3js) A minimal component-based JavaScript framework
 - [dragula](https://github.com/bevacqua/dragula) Drag and drop so simple it hurts
 - [sprint](https://github.com/bendc/sprint) A tiny, lightning fast jQuery-like library for modern browsers.
+- [jsT9](https://github.com/talyssonoc/jsT9) A text-prediction JavaScript tool
 
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
