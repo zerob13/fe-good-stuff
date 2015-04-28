@@ -26,6 +26,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 ## Javascript Libs
 - [Zepto.js](http://zeptojs.com) a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
 - [mustache.js](https://github.com/janl/mustache.js/)  an implementation of the mustache template system in JavaScript.
+- [jsblocks](https://github.com/astoilkov/jsblocks) Better MV-ish Framework 
 - [react.js](https://github.com/facebook/react) Facebook react
 - [riot.js](https://github.com/muut/riotjs) A React- like, 3.5KB UI lib
 - [tap.js](https://github.com/pukhalski/tap) 1Kb library for easy unified handling of user interactions such as mouse, touch and pointer events.
@@ -39,6 +40,10 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [dragula](https://github.com/bevacqua/dragula) Drag and drop so simple it hurts
 - [sprint](https://github.com/bendc/sprint) A tiny, lightning fast jQuery-like library for modern browsers.
 - [jsT9](https://github.com/talyssonoc/jsT9) A text-prediction JavaScript tool
+- [NoSleep.js](https://github.com/richtr/NoSleep.js) Prevent display sleep and enable wake lock in any Android or iOS web browser.
+- [Clusterize.js](https://github.com/NeXTs/Clusterize.js) Tiny vanilla JS plugin to display large data sets easily
+- [evv](https://github.com/chrisdavies/eev) A tiny, fast, zero-dependency event emitter
+- [foam](https://github.com/foam-framework/foam) Feature-Oriented Active Modeller
 
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
