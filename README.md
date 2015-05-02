@@ -22,6 +22,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [dragscroll](https://github.com/asvd/dragscroll) tiny library for drag-n-drop scrolling style
 - [Space.js](https://github.com/gopatrik/space.js)  A HTML-driven JavaScript-library for narrative 3D-scrolling. 
 - [materialize](http://materializecss.com/) A modern responsive front-end framework based on Material Design
+- [infinite-swipe](https://github.com/mctenshi/infinite-swipe) Infinite Swipe is simple swipe library that can use for both desktop and mobile devices.
 
 ## Javascript Libs
 - [Zepto.js](http://zeptojs.com) a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
