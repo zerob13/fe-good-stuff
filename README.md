@@ -76,3 +76,4 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) A book series on JavaScript.
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. 
 - [Three JavaScript Quirks That Java/C Developers Should Know](http://www.sitepoint.com/three-javascript-quirks-java-c-developers-should-know/)
+- [Better Asynchronous JavaScript](http://eng.localytics.com/better-asynchronous-javascript/) 
