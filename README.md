@@ -78,3 +78,5 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [Three JavaScript Quirks That Java/C Developers Should Know](http://www.sitepoint.com/three-javascript-quirks-java-c-developers-should-know/)
 - [Better Asynchronous JavaScript](http://eng.localytics.com/better-asynchronous-javascript/) 
 - [Performance Bookmarklet](https://github.com/micmro/performance-bookmarklet) Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light live WebPageTest. 
+- [Object Rest/Spread Properties for ECMAScript](https://github.com/sebmarkbage/ecmascript-rest-spread) Rest/Spread Properties for ECMAScript
+- [Building modular javascript applications in ES6 with React, Webpack and Babel](https://medium.com/@yamalight/building-modular-javascript-applications-in-es6-with-react-webpack-and-babel-538189cd485f) 
