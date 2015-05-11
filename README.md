@@ -81,3 +81,4 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [Performance Bookmarklet](https://github.com/micmro/performance-bookmarklet) Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light live WebPageTest. 
 - [Object Rest/Spread Properties for ECMAScript](https://github.com/sebmarkbage/ecmascript-rest-spread) Rest/Spread Properties for ECMAScript
 - [Building modular javascript applications in ES6 with React, Webpack and Babel](https://medium.com/@yamalight/building-modular-javascript-applications-in-es6-with-react-webpack-and-babel-538189cd485f) 
+- [JavaScript like a Boss: Understanding Fluent APIs](http://www.sitepoint.com/javascript-like-boss-understanding-fluent-apis/) Something about fluent apis
