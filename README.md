@@ -84,3 +84,4 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [Building modular javascript applications in ES6 with React, Webpack and Babel](https://medium.com/@yamalight/building-modular-javascript-applications-in-es6-with-react-webpack-and-babel-538189cd485f) 
 - [JavaScript like a Boss: Understanding Fluent APIs](http://www.sitepoint.com/javascript-like-boss-understanding-fluent-apis/) Something about fluent apis
 - [Auto-formatting JavaScript Code Style](https://medium.com/dev-channel/auto-formatting-javascript-code-style-fe0f98a923b8)  Auto-formatting JavaScript Code Style
+- [A cool trick for better functions](http://javascriptodyssey.com/a-cool-trick-for-better-functions/)  cool trick for function
