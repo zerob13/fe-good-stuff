@@ -66,6 +66,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [gremlins.js](https://github.com/marmelab/gremlins.js) gremlins.js is a monkey testing library written in JavaScript, for Node.js and the browser
 - [Fontello](http://fontello.com/) Icon fonts generator
 - [Justice.js](https://github.com/okor/justice) Embeddable script for displaying web page performance metrics.
+- [Immutable.js](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity. 
 
 ## Documents 
 - [frontend-guidelines](https://github.com/bendc/frontend-guidelines) Some HTML, CSS and JS best practices.
