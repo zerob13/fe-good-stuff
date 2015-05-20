@@ -87,3 +87,4 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [Auto-formatting JavaScript Code Style](https://medium.com/dev-channel/auto-formatting-javascript-code-style-fe0f98a923b8)  Auto-formatting JavaScript Code Style
 - [A cool trick for better functions](http://javascriptodyssey.com/a-cool-trick-for-better-functions/)  cool trick for function
 - [Useful.js](http://www.woollymittens.nl/useful/) JavaScript examples, too useful not to share.
+- [Logical XOR in JavaScript](http://www.howtocreate.co.uk/xor.html)  if( !foo != !bar ) {}
