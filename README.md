@@ -5,6 +5,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [Javascript Libs](#javascript-libs)
 - [Tools](#tools)
 - [Documents](#documents)
+- [Fun](#fun)
 
 ## UI
 - [Ratchet](http://goratchet.com) Mobile UI Kit
@@ -88,3 +89,6 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [A cool trick for better functions](http://javascriptodyssey.com/a-cool-trick-for-better-functions/)  cool trick for function
 - [Useful.js](http://www.woollymittens.nl/useful/) JavaScript examples, too useful not to share.
 - [Logical XOR in JavaScript](http://www.howtocreate.co.uk/xor.html)  if( !foo != !bar ) {}
+
+## Fun    
+- [Silon](https://github.com/SLaks/Silon) Logic Gates and Adders in pure CSS [http://silon.slaks.net](http://silon.slaks.net)
