@@ -8,6 +8,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [Fun](#fun)
 
 ## UI
+- [flexible.gs](https://github.com/flexiblegs) Flexible Grid System is a Responsive CSS Framework (CSS, Sass, LESS and Stylus)
 - [Ratchet](http://goratchet.com) Mobile UI Kit
 - [Bootstrap](http://getbootstrap.com/) Twitter's Bootstrap
 - [Swiper](https://github.com/nolimits4web/Swiper) Slider
