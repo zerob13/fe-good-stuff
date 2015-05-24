@@ -91,6 +91,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [Useful.js](http://www.woollymittens.nl/useful/) JavaScript examples, too useful not to share.
 - [Logical XOR in JavaScript](http://www.howtocreate.co.uk/xor.html)  if( !foo != !bar ) {}
 - [Primer](http://primercss.io/) The CSS toolkit and guidelines that power GitHub.
+- [Javascript libraries for SVG animation](http://noeticforce.com/Javascript-libraries-for-svg-animation) The 10 Best JavaScript Libraries for SVG Animation
 
 ## Fun    
 - [Silon](https://github.com/SLaks/Silon) Logic Gates and Adders in pure CSS [http://silon.slaks.net](http://silon.slaks.net)
