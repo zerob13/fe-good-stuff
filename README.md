@@ -27,6 +27,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [infinite-swipe](https://github.com/mctenshi/infinite-swipe) Infinite Swipe is simple swipe library that can use for both desktop and mobile devices.
 - [Marx](https://github.com/mblode/marx) The stylish CSS reset.
 - [Zoom.js](https://github.com/fat/zoom.js) Medium's Image Zoom for jQuery
+- [CSS GRADIENT ANIMATOR](http://www.gradient-animator.com/) CSS GRADIENT ANIMATOR GENERATOR
 
 ## Javascript Libs
 - [Zepto.js](http://zeptojs.com) a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
