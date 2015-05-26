@@ -50,6 +50,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [Clusterize.js](https://github.com/NeXTs/Clusterize.js) Tiny vanilla JS plugin to display large data sets easily
 - [evv](https://github.com/chrisdavies/eev) A tiny, fast, zero-dependency event emitter
 - [foam](https://github.com/foam-framework/foam) Feature-Oriented Active Modeller
+- [Vreme](https://github.com/stojanovic/vreme) Human readable date formatter.
 
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
@@ -96,3 +97,4 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 
 ## Fun    
 - [Silon](https://github.com/SLaks/Silon) Logic Gates and Adders in pure CSS [http://silon.slaks.net](http://silon.slaks.net)
+- [GBA-JS](http://jsemu.github.io/gba/) Javascript GameBoy Advance Emulator 
