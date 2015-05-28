@@ -28,6 +28,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [Marx](https://github.com/mblode/marx) The stylish CSS reset.
 - [Zoom.js](https://github.com/fat/zoom.js) Medium's Image Zoom for jQuery
 - [CSS GRADIENT ANIMATOR](http://www.gradient-animator.com/) CSS GRADIENT ANIMATOR GENERATOR
+- [zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage) Zepto Fullpage Scroll plugin 
 
 ## Javascript Libs
 - [Zepto.js](http://zeptojs.com) a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
