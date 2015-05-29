@@ -74,6 +74,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [Immutable.js](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity. 
 - [RegExpCheck](https://github.com/wwayne/RegExpCheck) Check your regular expression online 
 - [cubic-bezier](http://cubic-bezier.com/) Cubic-Bezier maker
+- [cssnext](https://github.com/cssnext/cssnext) Use tomorrow's CSS syntax, today
 
 ## Documents 
 - [frontend-guidelines](https://github.com/bendc/frontend-guidelines) Some HTML, CSS and JS best practices.
