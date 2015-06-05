@@ -52,6 +52,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [evv](https://github.com/chrisdavies/eev) A tiny, fast, zero-dependency event emitter
 - [foam](https://github.com/foam-framework/foam) Feature-Oriented Active Modeller
 - [Vreme](https://github.com/stojanovic/vreme) Human readable date formatter.
+- [Knwl.js](https://github.com/loadfive/Knwl.js) Find Dates, Places, Times, and More. A .js library for parsing text for specific information. 
 
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
