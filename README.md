@@ -53,6 +53,8 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [foam](https://github.com/foam-framework/foam) Feature-Oriented Active Modeller
 - [Vreme](https://github.com/stojanovic/vreme) Human readable date formatter.
 - [Knwl.js](https://github.com/loadfive/Knwl.js) Find Dates, Places, Times, and More. A .js library for parsing text for specific information. 
+- [vreme](http://stojanovic.github.io/vreme/) The simplest date and time formatting library for JavaScript.
+- [ProtoBuf.js](https://github.com/dcodeIO/ProtoBuf.js)  Protocol Buffers for JavaScript.
 
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
