@@ -29,6 +29,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [Zoom.js](https://github.com/fat/zoom.js) Medium's Image Zoom for jQuery
 - [CSS GRADIENT ANIMATOR](http://www.gradient-animator.com/) CSS GRADIENT ANIMATOR GENERATOR
 - [zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage) Zepto Fullpage Scroll plugin 
+- [Boron](https://github.com/yuanyan/boron) A collection of dialog animations with React.js
 
 ## Javascript Libs
 - [Zepto.js](http://zeptojs.com) a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
