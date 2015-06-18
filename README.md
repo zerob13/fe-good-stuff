@@ -57,6 +57,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [vreme](http://stojanovic.github.io/vreme/) The simplest date and time formatting library for JavaScript.
 - [ProtoBuf.js](https://github.com/dcodeIO/ProtoBuf.js)  Protocol Buffers for JavaScript.
 - [iScroll](https://github.com/cubiq/iscroll) Smooth scrolling for the web
+- [console.message](https://github.com/astoilkov/console.message) Console messages for cool kids
 
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
