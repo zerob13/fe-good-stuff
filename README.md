@@ -58,6 +58,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [ProtoBuf.js](https://github.com/dcodeIO/ProtoBuf.js)  Protocol Buffers for JavaScript.
 - [iScroll](https://github.com/cubiq/iscroll) Smooth scrolling for the web
 - [console.message](https://github.com/astoilkov/console.message) Console messages for cool kids
+- [polycal](https://github.com/camwiegert/polycal) A tiny javascript library for building custom calendars.
 
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
