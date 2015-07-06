@@ -60,6 +60,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [console.message](https://github.com/astoilkov/console.message) Console messages for cool kids
 - [polycal](https://github.com/camwiegert/polycal) A tiny javascript library for building custom calendars.
 - [xtype.js](http://xtype.js.org/overview) Elegant, highly efficient data validation for JavaScript
+- [emit.js](https://github.com/RobinBressan/emit.js) Efficient minimalist event emitter in JavaScript.
 
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
