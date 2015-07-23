@@ -61,6 +61,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [polycal](https://github.com/camwiegert/polycal) A tiny javascript library for building custom calendars.
 - [xtype.js](http://xtype.js.org/overview) Elegant, highly efficient data validation for JavaScript
 - [emit.js](https://github.com/RobinBressan/emit.js) Efficient minimalist event emitter in JavaScript.
+- [Intimidatetime](https://github.com/trentrichardson/Intimidatetime) a wicked awesome date time picker for both jQuery and Zepto.
 
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
