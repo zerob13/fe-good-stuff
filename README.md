@@ -63,6 +63,7 @@ A continuously expanded list of stuffs I used/want to use on frontend.
 - [emit.js](https://github.com/RobinBressan/emit.js) Efficient minimalist event emitter in JavaScript.
 - [Intimidatetime](https://github.com/trentrichardson/Intimidatetime) a wicked awesome date time picker for both jQuery and Zepto.
 - [LoadJS](https://github.com/muicss/loadjs) A tiny async loader for modern browsers (590 bytes)
+- [Socket.io](http://socket.io/)  Realtime application framework
 
 ## Tools
 - [Yeoman](http://yeoman.io/) THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS
